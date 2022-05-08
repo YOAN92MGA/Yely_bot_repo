@@ -1,1 +1,1 @@
-worker python Yely_bot.py
+worker python main.py
